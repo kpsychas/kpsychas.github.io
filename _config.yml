@@ -7,13 +7,16 @@
 
 # Site settings
 title: Konstantinos Psychas
-email: baseurl (at) gmail (dot) com
+email: github_username (at) gmail (dot) com
 description: > # this means to ignore newlines until "baseurl:"
   Personal website of Konstantinos Psychas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kpsychas.github.io"
-# twitter_username: jekyllrb
+
 github_username:  kpsychas
+quora_username:  Konstantinos-Psychas
+stack_username:  kon-psych
+stack_uid:   304623
 
 # Build settings
 markdown: kramdown

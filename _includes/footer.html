@@ -11,6 +11,16 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          {% if site.quora_username %}
+          <li>
+            {% include icon-quora.html username=site.quora_username %}
+          </li>
+          {% endif %}
+          {% if site.stack_username %}
+          <li>
+            {% include icon-stackexchange.html username=site.stack_username uid=site.stack_uid %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
@@ -22,7 +32,11 @@
         <p>{{ site.description }}</p>
       </div>
     </div>
-
+    <div>
+      Icons made by <a href="http://www.flaticon.com/authors/simpleicon" title="SimpleIcon">SimpleIcon</a>
+      from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>
+      is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>
+    </div>
   </div>
 
 </footer>
