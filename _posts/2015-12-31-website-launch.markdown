@@ -6,7 +6,7 @@ categories: announcements
 ---
 
 There are no plans for regular updates of the blog part of this website.
-Remember to look at [About] section for more information about me.
+Remember to look at [About Me][about] section for more information about me.
 
 Website was automatically generated using [Jekyll project][jekyll].
 
