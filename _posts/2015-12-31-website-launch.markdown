@@ -11,8 +11,5 @@ Remember to look at [About Me][about] section for more information about me.
 
 Website was automatically generated using [Jekyll project][jekyll].
 
-{{ site.url }}
-{{ page.url }}
-
 [about]:	/about/
 [jekyll]:   http://jekyllrb.com/
