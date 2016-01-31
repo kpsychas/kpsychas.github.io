@@ -20,3 +20,6 @@ stack_uid:   304623
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+        extensions: ["footnotes"]
