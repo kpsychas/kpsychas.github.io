@@ -19,5 +19,5 @@ activity I have in my linked profiles at the bottom.
 
 [NTUA]: www.ntua.gr
 [IMO 2006]: http://www.imo-official.org/year_individual_r.aspx?year=2006
-[cv]: /CV.pdf
+[cv]: /kpsychas_CV.pdf
 
