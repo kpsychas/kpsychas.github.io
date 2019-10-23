@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "Website Launch!"
 date:   2015-12-31
 categories: announcements
