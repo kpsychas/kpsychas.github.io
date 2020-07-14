@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="/images/photo.jpg" alt="Personal Photo" height="256" width="256">
+<img src="/images/photo2.jpg" alt="Personal Photo" height="256" width="256">
 
 Hello world, my name is Konstantinos Psychas.
 
