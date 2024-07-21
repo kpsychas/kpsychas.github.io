@@ -5,3 +5,4 @@ _site
 *.exe
 TODO
 Gemfile.lock
+*.bak
